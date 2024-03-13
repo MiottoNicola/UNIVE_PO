@@ -4,5 +4,5 @@ Questo repository contiene gli esercizi svolti durante le lezioni di programmazi
 
 ## Descrizione delle Cartelle
 
-- **Modulo1/**: Contiene tuttu gli esercizi svolti durante le lezioni del modulo 1 (prof. Pietro Ferrara).
-- **Modulo2/**: Contiene tuttu gli esercizi svolti durante le lezioni del modulo 2 (prof. ALvise Spano).
+- **Modulo1/**: Contiene tutti gli esercizi svolti durante le lezioni del modulo 1 (prof. Pietro Ferrara).
+- **Modulo2/**: Contiene tutti gli esercizi svolti durante le lezioni del modulo 2 (prof. ALvise Spano).
